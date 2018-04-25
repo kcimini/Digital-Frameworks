@@ -21,10 +21,9 @@ _I can't wait for him to try this arsenic soup_
 * These are all the things I hate about *you*
 * Your arsenic soup
 
-header 1  | header 2 
----------  ---------
-cell one   cell two
+header 1   |    header 2 
+---------  |    ---------
+cell one   |   cell two
+cell three |   cell four
 
-cell three  cell four
-
-.[this is a link to google].(www.google.com)
+.[this is a link to google](www.google.com).
