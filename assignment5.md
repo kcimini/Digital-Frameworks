@@ -1,4 +1,4 @@
-![Fatal Car Crashes in Washington, D.C., 2016-17](link to your chart right here on github)
+![Fatal Car Crashes in Washington, D.C., 2016-17](https://github.com/kcimini/Digital-Frameworks/blob/master/chart%20(1).png)
 
 This chart was made with data from DC's open source data set, opensource.dc.gov, and shows the number of fatal car crashes in Washington, D.C. from 2016-2017, whether they were fatal for the motorist, or pedestrians or bicyclists caught in the crash. 
 
