@@ -1,4 +1,4 @@
-# Are boys or girls most likely to die in a school shooting? 
+# Does gender matter in a school shooting? It just might
 
 Media reports often cite bullying and anger at girls who wouldn’t date them as the “reasons” school shooters have for committing mass murder. In the mid-May Santa Fe shooting, for example, many media outlets reported that the shooter chose to begin his rampage in the art class of a girl who he was reported to have either [harassed repeatedly for a date](http://www.latimes.com/nation/la-na-texas-shooter-20180519-story.html) or [recently broken up with](https://www.nytimes.com/2018/05/18/us/school-shooting-santa-fe-texas.html); reports vary by outlet.  
 
