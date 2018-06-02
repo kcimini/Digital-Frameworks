@@ -2,7 +2,7 @@
 
 Media reports often cite bullying and anger at girls who wouldn’t date them as the “reasons” school shooters have for committing mass murder. In the mid-May Santa Fe shooting, for example, many media outlets reported that the shooter chose to begin his rampage in the art class of a girl who he was reported to have either [harassed repeatedly for a date](http://www.latimes.com/nation/la-na-texas-shooter-20180519-story.html) or [recently broken up with](https://www.nytimes.com/2018/05/18/us/school-shooting-santa-fe-texas.html); reports vary by outlet.  
 
-In Parkland, Florida, the shooter chose Valentine’s Day to murder 17 fellow students; reports noted he was [abusive to his ex-girlfriend](http://www.miamiherald.com/news/local/community/broward/article200735914.html_ and had fought multiple times with her new boyfriend after they began a relationship, even sending him photos of guns via text.
+In Parkland, Florida, the shooter chose Valentine’s Day to murder 17 fellow students; reports noted he was [abusive to his ex-girlfriend](http://www.miamiherald.com/news/local/community/broward/article200735914.html) and had fought multiple times with her new boyfriend after they began a relationship, even sending him photos of guns via text.
 
 A pattern has emerged with regards to domestic violence and mass shootings: Domestic violence is arguably a cause of more than [50 percent of all mass shootings](https://fas.org/sgp/crs/misc/R44126.pdf), which, statistically, is most frequently towards women and romantic partners. 
 
